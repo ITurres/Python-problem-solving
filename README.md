@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://cs50.harvard.edu/x/2023/">
+  <a href="https://cs50.harvard.edu/x/2023/" target="_blank">
     <img alt="cs50 logo" src="src/assets/image/thisiscs50.png" width="200">
   </a>
 </div>
