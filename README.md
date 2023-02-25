@@ -1,5 +1,7 @@
 <div align="center">
-  <img alt="cs50 logo" src="src/assets/image/thisiscs50.png" width="200">
+  <a href="https://cs50.harvard.edu/x/2023/">
+    <img alt="cs50 logo" src="src/assets/image/thisiscs50.png" width="200">
+  </a>
 </div>
 
 <h1 align="center">Problem Solving with Python</h1>
